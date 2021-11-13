@@ -1,0 +1,14 @@
+{
+	"Print to console": {
+		"scope": "javascript,typescript",
+		"prefix": "def",
+		"body": [
+		"export default (props) => {",
+		"  return (",
+		"    $1",
+		"  )",
+		"}",
+		],
+		"description": "Log output to console"
+	}
+}
